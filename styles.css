@@ -9,7 +9,11 @@
 div{
     /* width: 300em; */
     margin: 25%;
-    border: 15px #ff0000;
+    box-shadow: 
+    0 0 0 3px #ff0000,
+    0 0 0 6px #00ff00,
+    0 0 0 9px #0000ff;    ;
+    padding: 15px;
 }
 
 /* hgroup styling */
@@ -20,6 +24,7 @@ hgroup {
 /* address styling */
 address {
     text-align: end;
+    column-count: 2;
 }
 /* footer styling */
 footer {

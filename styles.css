@@ -1,7 +1,27 @@
 /* Our brand colours are: #ff0000, #00ff00, #0000ff */
+/* All selector */
+* {
+    background-color: palegoldenrod;
+    /* font-family: baskerville; */
+}
+/* Div styling */
+
+div{
+    /* width: 300em; */
+    margin: 25%;
+    border: 15px #ff0000;
+}
 
 /* hgroup styling */
-
+hgroup {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
 /* address styling */
-
+address {
+    text-align: end;
+}
 /* footer styling */
+footer {
+    align-self: baseline;
+}

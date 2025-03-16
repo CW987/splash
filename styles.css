@@ -6,13 +6,17 @@
 }
 /* Div styling */
 
-div{
-    /* width: 300em; */
-    margin: 25%;
+body{
+    margin: 1em;
     box-shadow: 
     0 0 0 3px #ff0000,
     0 0 0 6px #00ff00,
     0 0 0 9px #0000ff;    ;
+    padding: 15px;
+}
+
+div{
+    margin: 25%;
     padding: 15px;
 }
 
@@ -29,4 +33,5 @@ address {
 /* footer styling */
 footer {
     align-self: baseline;
+    text-align: center;
 }

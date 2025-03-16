@@ -31,3 +31,7 @@ CSS positioning, flexbox, box model, properties and values, colour codes
 Header, Footer, Div, P, Address, Link, Meta, Title, Body, HGroup, H1, br, a - href, nav
 
 Matched to wireframe. Left background colour in for accessible reading. 
+
+![wireframe](./Wireframe.png)
+
+![final](./Final.png)
